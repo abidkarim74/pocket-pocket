@@ -7,33 +7,33 @@ import img4 from "../images/4.jpg";
 export const products = [
   {
     id: 1,
-    name: "Wireless Headphones",
-    type: "Electronics",
-    price: 99.99,
+    name: "Puri Powder",
+    type: "Protein Bar",
+    price: 165,
     stock: 15,
     image: img1
   },
   {
     id: 2,
-    name: "Smart Watch",
-    type: "Electronics",
-    price: 199.99,
+    name: "Smocky Desi",
+    type: "Protein Bar",
+    price: 165,
     stock: 8,
     image: img2
   },
   {
     id: 3,
-    name: "Running Shoes",
-    type: "Footwear",
-    price: 79.99,
+    name: "Savory Desi Bar",
+    type: "Protein Bar",
+    price: 165,
     stock: 20,
     image: img3
   },
   {
     id: 4,
-    name: "Leather Wallet",
-    type: "Accessories",
-    price: 49.99,
+    name: "Bhalla Buzz",
+    type: "Protein Bar",
+    price: 165,
     stock: 12,
     image: img4
   },
