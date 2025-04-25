@@ -7,7 +7,7 @@ const Navbar = ({ cartItems }) => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="navbar-logo">Pocket Pocket</Link>
+        <Link to="/" className="navbar-logo">Pocket Rocket</Link>
         <div className="navbar-links">
           <Link to="/" className="navbar-link">Products</Link>
           <Link to="/cart" className="navbar-link">

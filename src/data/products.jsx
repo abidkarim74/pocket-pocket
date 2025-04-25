@@ -7,7 +7,7 @@ import img4 from "../images/4.jpg";
 export const products = [
   {
     id: 1,
-    name: "Puri Powder",
+    name: "Puri Power",
     type: "Protein Bar",
     price: 165,
     stock: 15,
@@ -15,7 +15,7 @@ export const products = [
   },
   {
     id: 2,
-    name: "Smocky Desi",
+    name: "Smokey Shakti",
     type: "Protein Bar",
     price: 165,
     stock: 8,
@@ -23,7 +23,7 @@ export const products = [
   },
   {
     id: 3,
-    name: "Savory Desi Bar",
+    name: "Bhalla Buzz",
     type: "Protein Bar",
     price: 165,
     stock: 20,
@@ -31,7 +31,7 @@ export const products = [
   },
   {
     id: 4,
-    name: "Bhalla Buzz",
+    name: "Chaska Chaat",
     type: "Protein Bar",
     price: 165,
     stock: 12,
